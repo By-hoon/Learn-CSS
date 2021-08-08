@@ -107,10 +107,6 @@ footer {
   position: relative;
 }
 
-footer div {
-  
-}
-
 .footer__name {
   background-color:#FF00FF;
   text-align: right;
@@ -182,15 +178,15 @@ aside {
   gap:15px;
 }
 
-.posts__post {
+.postsLow {
   padding-top:15px;
   border-top:2px solid black;
   margin-bottom:40px;
 }
 
-.posts__post h3 {
+.postsLow h3 {
   font-size:26px;
 }
-.posts__post h6 {
+.postsLow h6 {
   font-size:22px;
 }
